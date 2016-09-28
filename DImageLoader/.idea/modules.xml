@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DImageLoader.iml" filepath="$PROJECT_DIR$/DImageLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_fresco/lib_fresco.iml" filepath="$PROJECT_DIR$/lib_fresco/lib_fresco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_glide/lib_glide.iml" filepath="$PROJECT_DIR$/lib_glide/lib_glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_picasso/lib_picasso.iml" filepath="$PROJECT_DIR$/lib_picasso/lib_picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_uil/lib_uil.iml" filepath="$PROJECT_DIR$/lib_uil/lib_uil.iml" />
+    </modules>
+  </component>
+</project>
